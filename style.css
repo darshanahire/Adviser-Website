@@ -1,0 +1,57 @@
+*{
+    font-family: 'Baloo 2', cursive;
+}
+@media screen and (min-width:400px) and (max-width: 550px){
+    
+    #title{
+        margin-left: 0;
+        font-size: 20px;
+        margin-top:10px ;
+    }
+    #textarea{
+        margin: 0px;
+        margin-left: 0px;
+        font-size: 15px;
+        width: 350px;
+        
+    }
+    #mycard{
+        margin-top: 50px;
+        padding: 0px;
+        width: 400px;
+   }
+   
+}
+
+
+
+
+
+
+
+
+#header{
+    font-size: 30px;
+    margin-top:60px ;
+}
+#textarea{
+    text-align: center;}
+textarea{
+
+    font-size: 10px;
+    font-family: 'Baloo 2', cursive;
+    padding-top:20px;
+    text-align: center;
+    height: 120px;
+    width: 400px;
+   
+}
+.mycard{
+    background-color: rgb(241, 211, 211);
+    width: 500px;
+    height: 220px;
+    padding-top: 10px;
+    margin: 100px auto;
+
+ 
+}
